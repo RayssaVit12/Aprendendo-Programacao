@@ -1,16 +1,41 @@
-# React + Vite
+# 🖥️ Aprenda Programação Fácil
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![badge-react](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![badge-js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![badge-html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![badge-css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🎯 Objetivo
 
-## React Compiler
+Tornar a aprendizagem de programação **acessível, prática e divertida** para estudantes iniciantes do curso de TI.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 📚 Conteúdo Atual
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🟢 [Variáveis](./src/components/Variaveis.jsx) – Armazenamento e tipos de dados.
+- 🔵 [Operadores](./src/components/Operadores.jsx) – Aritméticos, lógicos e relacionais.
+- 🟡 [Condições](./src/components/Condicoes.jsx) – Estruturas if/else para decisões.
+- 🟣 [Entrada e Saída](./src/components/EntradaSaida.jsx) – Ler dados do usuário e mostrar resultados.
+- 🔴 [Loops](./src/components/Loops.jsx) – Repetição de código com for e while.
+
+---
+
+## ⚡ Tecnologias Utilizadas
+
+- **HTML5 & CSS3 / Tailwind CSS**
+- **JavaScript / React**
+- **GSAP** – Animações e transições
+- **Vite / Create React App** – Inicialização do projeto
+
+---
+
+## 🚀 Como Executar
+
+```bash
+git clone https://github.com/seu-usuario/Aprenda-Programacao-Facil.git
+cd Aprenda-Programacao-Facil
+npm install
+npm start
