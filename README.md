@@ -1,7 +1,5 @@
 # 🖥️ Aprenda Programação Fácil
 
-![badge-C](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=C&logoColor=white)
-
 ---
 
 ## 🎯 Objetivo
