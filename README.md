@@ -1,6 +1,6 @@
 # 🖥️ Aprenda Programação Fácil
 
-![badge-react](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=C&logoColor=white)
+![badge-C](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=C&logoColor=white)
 
 ---
 
